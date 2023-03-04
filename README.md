@@ -11,6 +11,17 @@ Dados de Vacinação COVID-19 do estado de Amazonas do site P[x] Analisar qualid
 
 Este projeto será uma grande oportunidade para aprender a utilização do Anaconda e do Jupyter; melhorar a análise com as bibliotecas Pandas e Matplotlibdo do Python.
 
+#Como Utilizar:
+Realizar a instalação do programa Anaconda, instalar o Python 3.9 e, dentro de Anaconda Navigator, realizar o download do Jupyter.<br>
+No prompt do Anaconda realizar o download das bibliotecas Pandas e Matplotlib.<br>
+Clonar este repositório para o seu Github.<br>
+Importar o repositório para uma pasta de seu computador.<br>
+Abrir Jupyter Notebook no Anaconda.<br>
+Procurar pela pasta do repositório.<br>
+Abrir documento 'ProjetoDados.ipynb'.<br>
+Apertar em 'RUN'.
+Após este passo, o programa irá rodar todos as tabelas e gráficos disponíveis.
+
 
 # Andamento do projeto:
 Em andamento. <br>
