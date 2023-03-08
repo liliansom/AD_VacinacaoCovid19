@@ -1,0 +1,51 @@
+Dados 1ª Dose
+
+A média de idade das pessoas que se vacinaram com a 1ª dose é de 32.55 anos.
+A média de idade das pessoas que se vacinaram com a 2ª dose é de 35.47 anos.
+Faixa_Etária Porcentagem (1ªdose)   Porcentagem (2ªdose)              
+    0-11         12.420610                7.912831
+    12-17        12.767233               10.903854
+    18-29        23.954228               23.983011
+    30-39        17.200073               18.118315
+    40-49        14.338692               15.940065
+    50-59         9.503981               11.046735
+    60-69         5.980081                7.329847
+    70-79         2.668241                3.359766
+    80-89         0.975691                1.187898
+    90-99         0.191172                0.217678
+
+    RAÇA     Porcentagem (1ªdose)   Porcentagem (2ªdose) 
+PARDA             53.788231              53.734728
+SEM INFORMACAO    18.890232              17.860690
+AMARELA           16.203583              17.319105
+BRANCA             6.210589              6.387922
+INDIGENA           4.000769              3.750190
+PRETA              0.906597              0.947365
+
+
+Faixa Etária                                       74.45
+Povos e Comunidades Tradicionais                    5.95
+Trabalhadores de Saúde                              5.39
+Comorbidades                                        5.09
+Povos Indígenas                                     3.80
+Trabalhadores da Educação                           2.28
+Gestantes                                           0.65
+Forças de Segurança e Salvamento                    0.40
+Forças Armadas (membros ativos)                     0.37
+Trabalhadores de Transporte                         0.35
+Pessoas com Deficiência                             0.34
+População Privada de Liberdade                      0.23
+Puérperas                                           0.21
+Trabalhadores Portuários                            0.15
+Outros                                              0.13
+Trabalhadores de Limpeza Urbana                     0.09
+Funcionário do Sistema de Privação de Liberdade     0.05
+Pessoas de 60 anos ou mais institucionalizadas      0.04
+Pessoas em Situação de Rua                          0.02
+Trabalhadores Industriais                           0.02
+
+
+Em relação ao sexo das pessoas que tomaram a 1ª dose da vacina: 51.00% são do sexo Feminino, 49.00% do sexo Masculino e 0.00% Indefinido.
+Em relação ao sexo das pessoas que tomaram a 2ª dose da vacina: 52.40% são do sexo Feminino, 47.60% do sexo Masculino e 0.00% Indefinido.
+
+
