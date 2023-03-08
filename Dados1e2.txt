@@ -44,6 +44,14 @@ Pessoas de 60 anos ou mais institucionalizadas      0.04
 Pessoas em Situação de Rua                          0.02
 Trabalhadores Industriais                           0.02
 
+MUNICÍPIO   PORCENTAGEM (1ªDOSE)   PORCENTAGEM (2ªDOSE)
+MANAUS         54.753178              52.441911
+ITACOATIARA     2.614504              2.949604
+PARINTINS       2.429030              3.083459
+MANACAPURU      2.390377              2.448183
+TEFE            1.876429              2.109666
+
+
 
 Em relação ao sexo das pessoas que tomaram a 1ª dose da vacina: 51.00% são do sexo Feminino, 49.00% do sexo Masculino e 0.00% Indefinido.
 Em relação ao sexo das pessoas que tomaram a 2ª dose da vacina: 52.40% são do sexo Feminino, 47.60% do sexo Masculino e 0.00% Indefinido.
